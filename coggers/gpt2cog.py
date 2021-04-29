@@ -9,9 +9,9 @@ class GPT2Discord(commands.Cog, name='GPT2Discord Module'):
   *Work in progress!*
   Hey, how does python docstring works?? 
   """
-  def __init__(self, bot):
+  def __init__(self):
     super().__init__()
-    self.bot = bot
+    # self.bot = bot
     self.selected_model = None
     self._available_models = ["124M", "355M"]
     self.tf_instance = gpt2.start_tf_sess()
