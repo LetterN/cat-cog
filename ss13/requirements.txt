@@ -1,0 +1,4 @@
+urllib
+socket
+struct
+discord

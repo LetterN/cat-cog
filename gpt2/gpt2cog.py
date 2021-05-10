@@ -1,4 +1,4 @@
-import gpt_2_simple as gpt2
+import gpt2simple as gpt2
 import os
 import requests
 import discord

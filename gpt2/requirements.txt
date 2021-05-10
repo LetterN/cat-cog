@@ -1,0 +1,9 @@
+tensorflow
+regex
+requests
+tqdm
+numpy
+toposort
+gpt_2_simple
+requests
+discord
